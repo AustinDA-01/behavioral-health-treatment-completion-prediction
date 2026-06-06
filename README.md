@@ -241,6 +241,6 @@ Investigate regional and state-level differences in treatment outcomes to identi
 
 Austin Blunt
 
-MBA, Data Analytics (May 2026)
+MBA, Data Analytics
 
 Data Scientist specializing in machine learning, predictive analytics, healthcare analytics, statistical modeling, and business intelligence.
